@@ -1,0 +1,21 @@
+.header-top {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+
+.section-faq .accordion .card-header .btn {
+
+    background-color: #e4e4e4;
+
+}
+
+.section-faq .accordion .card {
+    border: 1px solid #c8c8c8;
+}
+
+.section-faq .accordion .card-header .btn {
+
+    color: #25408f;
+    font-weight: 500;
+}

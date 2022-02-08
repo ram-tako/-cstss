@@ -1,0 +1,64 @@
+$color: (
+	typography: (
+		1: #FFFFFF,
+		2: #FF0000,
+		3: #000000,
+		4: #282829,
+		5: #272727,
+		6: #fcb316,
+		7: #28aa4a,
+		8: #eff2f5,
+		
+		9: #001727,
+		10: #272727
+
+
+
+
+
+	),
+	bg: (
+		1: #FFFFFF,
+		2: #FF0000,
+		3: #000000,
+		4: #282829,
+		5: #363636,
+		6: #fcb316,
+		7: #41ad48,
+		8: #eff2f5,
+		
+		9: #001727,
+		10: #272727
+		
+
+	)
+);
+
+
+$font__family: (
+    primary: '"Open Sans", sans-serif',
+    base: '"Big Shoulders Display", cursive',
+	// secondary: 'GillSansMT',
+	// eurostile: '"eurostile",sans-serif',
+	// georgia: 'Georgia,Times,Times New Roman,serif'
+
+);
+
+
+$font__weight: (
+	light: 300, 	// font__weight(light)
+	regular: 400, 	// font__weight(regular)
+	medium: 500,	// font__weight(medium)
+	semibold: 600,	// font__weight(semi-bold)
+	bold: 700		// font__weight(bold)
+);
+
+
+
+
+
+
+
+
+
+
